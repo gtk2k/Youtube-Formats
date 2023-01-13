@@ -52,6 +52,7 @@ Depending on the age and/or popularity of the video, not all formats will be ava
 
 | Code | Container | Video Codec | Video Res. | Audio Codec | Audio Bitrate | Channels | Still offered? |
 |:-----|:----------|:------------|-----------:|:------------|--------------:|---------:|---------------:|
+| 17 | 3gp | H.264 (Simple) | 144p | AAC | 24 Kbps | Monoral (1) | ? |
 | 18 | MP4 | H.264 (Baseline, L3.0) | 360p | AAC (LC) | 96 Kbps | Stereo (2) | Yes, GDrive |
 | (59) | MP4 | H.264 (Main, L3.1) | 480p | AAC (LC) | 128 Kbps | Stereo (2) | No, GDrive |
 | 22 | MP4 | H.264 (High, L3.1) | 720p | AAC (LC) | 192 Kbps | Stereo (2) | Mostly*, GDrive |
